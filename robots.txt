@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap: https://similarbj.netlify.app/sitemap.xml 
